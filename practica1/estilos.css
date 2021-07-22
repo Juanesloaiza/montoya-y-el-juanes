@@ -2,3 +2,7 @@
     height:  100px;
     width: 160px;
 }
+#form{
+    position: relative;
+    left:30% ;
+}
